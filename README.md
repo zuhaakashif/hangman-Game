@@ -1,1 +1,1 @@
-# lab-project-hangman
+# HANGMAN-PROJECT
